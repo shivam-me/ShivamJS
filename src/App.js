@@ -7,8 +7,11 @@ import { GlobalStyles } from "./global";
 import { CursorProvider } from "react-cursor-custom";
 import { settings } from "./portfolio";
 import ReactGA from "react-ga";
+// import { Helmet } from 'react-helmet';
 
 function App() {
+
+
   useEffect(() => {
     if (settings.googleTrackingID) {
       ReactGA.initialize(settings.googleTrackingID, {
