@@ -173,10 +173,6 @@ const skills = {
       title: "Stocks and Options Trader",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Over 3 Years of Experience in Stock Trading",
-        "⚡ Freelance Instructor at Upwork and Fiverr",
-        "⚡ Dedicated  Options Trader",
-        "⚡ Instructor of 'Swing Trading Blueprint' at Udemy",
 
       ],
       softwareSkills: [
